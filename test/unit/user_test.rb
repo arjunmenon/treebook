@@ -58,4 +58,9 @@ test "creating friendship on a user works" do
 	users(:arjun).friends.reload
 	assert users(:arjun).friends.include?(users(:anirudh))
 end
+
+test "that calling to_params on a user returns the profile_name" do
+	assert_equal "arjunmenon", users(:arjun).to_param
+end
+
 end

@@ -3,6 +3,7 @@ arjun:
   last_name: "Menon"
   email: "arjunmenon009@gmail.com"
   profile_name: "arjunmenon"
+  encrypted_password: "$2a$10$Fh/Hm8RxDsuPTeBUr6864.GARlcmt7zF2WspaXGr3BIv2C27N.osq"
 
 arunima:
   first_name: "Arunima"
