@@ -8,4 +8,10 @@ arunima:
   first_name: "Arunima"
   last_name: "Menon"
   email: "arunima.menon@gmail.com"
-  profile_name: "arunimamenon"  
+  profile_name: "arunimamenon"
+
+anirudh:
+  first_name: "Anirudh"
+  last_name: "Menon"
+  email: "anirudh@gmail.com"
+  profile_name: "anirudh"  
